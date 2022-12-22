@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Edward. These are my repos as I work along in The Odin project and some learning side projects. I'm learning HTML, CSS, and JavaScript along with Node. I was a scientist for 20 years in the field of Histotechnology and I own the company Okinawan Steel and make high-end forged kitchen knives. 
+
 <!--
 **edwardedmonds/edwardedmonds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
